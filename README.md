@@ -3,9 +3,6 @@
 💻 I am interested in both front-end 🎨 and back-end ⚙️ development, always striving to build seamless and efficient digital experiences.
 🧠 Currently diving deeper into cutting-edge technologies including Cyber Security 🛡️, Ethical Hacking 🕵️‍♂️, and Secure Software Development 🔐.🌱 Always curious, always learning.
 
-🚀 Let's build something awesome and secure together! 🤝
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
